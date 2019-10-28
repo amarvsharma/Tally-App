@@ -55,7 +55,7 @@ const getClasses = (dispatch) => {
         //console.log('getClasses called');
         try {
             console.log("classContext Token: " +  token);
-            const response = await TallyApi.get('/teacher/106774837170387011873/classes', { headers: { Authorization: token } });
+            const response = await TallyApi.get('/teacher/*******/classes', { headers: { Authorization: token } });
             //console.log(response.data);
             dispatch({type: 'get_classes', payload: {classes: response.data}});
         } catch (err) {
