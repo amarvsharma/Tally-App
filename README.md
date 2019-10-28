@@ -24,5 +24,10 @@ Included code explanation:
     This is done use the useContext hook from React
   
     more explanation in the code comments
+    
+    
+    'InitialLoginScreen' - Image
+    
+    This simple screen shows the app name, sign in button, and create account button
   
   
