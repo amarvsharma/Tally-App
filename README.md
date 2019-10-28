@@ -26,8 +26,10 @@ Included code explanation:
     more explanation in the code comments
     
     
-    'InitialLoginScreen' - Image
+    'InitialLoginScreen' - Image 4759
     
     This simple screen shows the app name, sign in button, and create account button
+    
+    It makes use of styling, components, navigation, and one custom spacer component
   
   
