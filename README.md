@@ -8,8 +8,11 @@ Role: Front-End Developer
 and is then used to call our database to retrieve a list of classes*
 
 What: Cross-Platform participation app for teachers to log points based on student location (desks)
+
 How: Built using React Native - Navigation, Custom State/Context Management (similar to Redux), Authentication and more
+
 Team: Collaborated with my partner to integrate the back-end REST Api server (GCP) and database (postgreSQL) ex. Authentication and retrieving students from server
+
 Future: Launch of App Store and Google Play Store by December 2019
 
 Included code explanation:
