@@ -16,6 +16,7 @@ Team: Collaborated with my partner to integrate the back-end REST Api server (GC
 Future: Launch of App Store and Google Play Store by December 2019
 
 Included code explanation:
+
   'classContext' is a class that keeps track of which classes the teacher wants to add and remove
   This is done use the useContext hook from React
   more explanation in the code comments
