@@ -2,7 +2,7 @@
 Tally - A Participation App for teachers to keep track of points for students
 Role: Front-End Developer
 
-*This project is unfinished - we hope to launch by the end of 2019. Code uploaded is for demonstration only, some of it may be incomplete.*
+*Code uploaded is for demonstration only.*
 
 *Our most recent achievement was Token Authentication, the token is now stored after it is recieved from the Google SignIn WebBrowser
 and is then used to call our database to retrieve a list of classes*
